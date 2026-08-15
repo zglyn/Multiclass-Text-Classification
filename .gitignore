@@ -1,0 +1,12 @@
+# Ignore data files
+*.csv
+*.json
+*.parquet
+data/
+dataset/
+hf-course-user1_credentials.csv
+
+# Ignore virtual environment and checkpoints
+.venv/
+venv/
+.ipynb_checkpoints/
